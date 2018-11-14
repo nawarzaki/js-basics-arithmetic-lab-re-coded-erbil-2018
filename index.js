@@ -8,4 +8,4 @@ You should NOT try to redefine any of the above variables.
 
 // Write your code below this line!
 
-const newID = Math.floor(Math.random() * 100) + 1000000000;
+const oldID = Math.floor(Math.random() * 100) + 1000000000;
